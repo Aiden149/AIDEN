@@ -41,16 +41,16 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *GROUP* 
 │❒⁠⁠⁠⁠│▸ *REPO*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VaefFGr77qVUzcS6ad0t
 │❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/Mrandbad/ANDBAD-MD-V1
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@andbadtz
+│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/Aiden149/AIDEN
+│❒⁠⁠⁠⁠│▸ *YTUBE* : https://youtube.com/@fredrickgodfrey-fo1fd?si=kmI2vAXS9aC9dqnb
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n
   `;
     
 let menuMsg = `
-     MADE EASY BY 𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃
+     MADE EASY BY FREDRICK GODFREY 
 
 ❒────────────────────❒`;
 
