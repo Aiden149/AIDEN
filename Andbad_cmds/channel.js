@@ -34,20 +34,20 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-POWERED BY ANDBAD TEAM 
+POWERED BY FREDRICK GODFREY TEAM 
 ╭─────────────────
 │❒⁠⁠⁠⁠╭─────────────
-│❒⁠⁠⁠⁠│▸ *THIS ARE MR ANDBAD GROUP LINKS* 
+│❒⁠⁠⁠⁠│▸ *THIS ARE 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃 GROUP LINKS* 
 │❒⁠⁠⁠⁠│▸ *CHANNELS* 
 │❒⁠⁠⁠⁠│▸ *GROUPS*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VaefFGr77qVUzcS6ad0t
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VaefFGr77qVUzcS6ad0t
 │❒⁠⁠⁠⁠│▸
-│❒⁠⁠⁠⁠│▸ 1. https://chat.whatsapp.com/HuPTQpWrMcgKnrUuhd1UV7
-│❒⁠⁠⁠⁠│▸ 2. https://chat.whatsapp.com/JVnTDxF9YEmE4VBiYiyKlV
-│❒⁠⁠⁠⁠│▸ 3. https://chat.whatsapp.com/KQUhHDtpBxUKfhl94OlxEf
-│❒⁠⁠⁠⁠│▸ 4. https://chat.whatsapp.com/Ilh736URrxrFUqp4qhRu7L
+│❒⁠⁠⁠⁠│▸ 1. https://chat.whatsapp.com/BapC5X4pCZt3YjJDxWAMuB
+│❒⁠⁠⁠⁠│▸ 2. https://chat.whatsapp.com/LRcQ5LoIH1YK51OiEQoxVD
+│❒⁠⁠⁠⁠│▸ 3. https://chat.whatsapp.com/BapC5X4pCZt3YjJDxWAMuB
+│❒⁠⁠⁠⁠│▸ 4. https://chat.whatsapp.com/LRcQ5LoIH1YK51OiEQoxVD
 │❒⁠⁠⁠⁠│▸ 5. https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
 │❒⁠⁠⁠⁠│▸ 6. https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9
 │❒⁠⁠⁠⁠│▸
@@ -58,7 +58,7 @@ POWERED BY ANDBAD TEAM
   `;
     
 let menuMsg = `
-     MADE EASY BY MR ANDBAD
+     MADE EASY BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃
 
 ❒────────────────────❒`;
 
