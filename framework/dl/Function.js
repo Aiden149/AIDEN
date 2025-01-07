@@ -44,7 +44,7 @@ exports.webp2mp4File=async(path) =>{
 		 form.append('new-image', fs.createReadStream(path))
 		 axios({
 			  method: 'post',
-			  url: 'https://s6.ezgif.com/webp-to-mp4',
+			  url: '𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃',
 			  data: form,
 			  headers: {
 				   'Content-Type': `multipart/form-data; boundary=${form._boundary}`
