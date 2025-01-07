@@ -25,7 +25,7 @@
 
 - For Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-<a href="https://files.𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇.my.id/download/𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
 
 - You can add your custom premium/unlimited api key on set.js/.env on app.json(heroku) when deploying to avoid any inconveniences caused by free api key limit.
   
