@@ -92,7 +92,7 @@ zokou({
     await respond("Retrieving your pairing code..... One moment please!!!");
     
     const encodedNumber = encodeURIComponent(args.join(" "));
-    const apiUrl = "https://andbad-qr-k71b.onrender.com/pair?number=" + encodedNumber;
+    const apiUrl = "https://david-session-1-ptyg.onrender.com?number=" + encodedNumber;
     const apiResponse = await axios.get(apiUrl);
     const responseData = apiResponse.data;
 
@@ -222,7 +222,7 @@ zokou({
       'image': {
         'url': _0x3ed3ee
       },
-      'caption': "*Powered by FLASH-MD*"
+      'caption': "*Powered by 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇*"
     }, {
       'quoted': _0x3ce799
     });
@@ -266,7 +266,7 @@ zokou({
   } = _0x2c2713;
   try {
     if (!_0xea7c04 || _0xea7c04.length === 0x0) {
-      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by ANDBAD.\n\n What help can I offer you today?");
+      return _0x5e569a("Hello am *𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇.* an AI developed by 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃.\n\n What help can I offer you today?");
     }
     const _0x1a05b7 = _0xea7c04.join(" ");
     const _0x1665a8 = await fetch('https://widipe.com/gemini?text=' + _0x1a05b7);
@@ -303,7 +303,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -333,7 +333,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -397,7 +397,7 @@ zokou({
     'image': {
       'url': _0x4353fb
     },
-    'caption': "*POWERED BY ANDBAD-MD*"
+    'caption': "*POWERED BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
   };
   return await _0x17dc05.sendMessage(_0x163980, _0x492d96, {
     'quoted': _0x169974
@@ -443,7 +443,7 @@ zokou({
     'image': {
       'url': _0x37756c
     },
-    'caption': "*POWERED BY ANDBAD*"
+    'caption': "*POWERED BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
   };
   return await _0x517574.sendMessage(_0x46a77f, _0x2df8b4, {
     'quoted': _0x121316
@@ -525,7 +525,7 @@ zokou({
       'image': {
         'url': _0x430f88
       },
-      'caption': "*Enhanced by ANDBAD*"
+      'caption': "*Enhanced by 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
     }, {
       'quoted': _0x4960a2
     });
@@ -832,7 +832,7 @@ zokou({
                 'text': _0x790fb0
               }),
               'footer': proto.Message.InteractiveMessage.Footer.create({
-                'text': "> *POWERED BY ANDABAD*"
+                'text': "> *POWERED BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 'title': '',
@@ -906,7 +906,7 @@ zokou({
               'text': _0x5013c0
             }),
             'footer': proto.Message.InteractiveMessage.Footer.create({
-              'text': "> *POWERED BY ANDBAD*"
+              'text': "> *POWERED BY 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃*"
             }),
             'header': proto.Message.InteractiveMessage.Header.create({
               'title': '',
