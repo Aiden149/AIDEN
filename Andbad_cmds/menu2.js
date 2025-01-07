@@ -41,13 +41,14 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *ANDBADTHEME*
+│❒│⁠⁠⁠⁠ *THEME* : *𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇THEME*
 ┬  ╰──────────────
-╰─── ··《《ANDBAD MD》》··──\n`;
+╰─── ··《《𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇》》··──\n`;
     
 let menuMsg = `
  ─────────
-  *TEAM ANDBAD BOTS* 
+  *TEAM A
+  𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃* 
  ─────────
 
 
@@ -66,7 +67,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣MADE EASY BY MR ANDBAD
+|⏣MADE EASY BY FREDRICK GODFREY
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
