@@ -34,7 +34,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Aiden149/AIDEN?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Aiden149?label=Followers&style=social"></a>
