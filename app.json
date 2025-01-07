@@ -1,9 +1,9 @@
 {
   "name":"ANDBAD MD",
-  "description":"Deploy now your bot, ANDBAD was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "description":"Deploy now your bot, AIDEN was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/L4U2K76.jpeg",
-  "repository":"https://github.com/Mrandbad/ANDBAD-MD-V1",
+  "logo":"https://files.catbox.moe/sb8niw.jpg",
+  "repository":"https://github.com/Aiden149/AIDEN",
   "succes_url":"/",
   "stack":"container",
   "env":{
