@@ -1,5 +1,5 @@
 {
-  "name":"ANDBAD MD",
+  "name":"AIDEN",
   "description":"Deploy now your bot, AIDEN was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/sb8niw.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" ANDBAD MD",
+      "value":" AIDEN",
       "required":false
 
     } ,
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃"
+    "value": "AIDEN"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255783394967"
+    "value": "255750363194"
   },
     "WARN_COUNT":
   {
