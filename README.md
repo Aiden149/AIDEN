@@ -25,7 +25,7 @@
 
 - For Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+<a href="https://files.𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇.my.id/download/𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
 
 - You can add your custom premium/unlimited api key on set.js/.env on app.json(heroku) when deploying to avoid any inconveniences caused by free api key limit.
   
@@ -34,13 +34,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
-<a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
+<a href="https://github.com/Aiden149/AIDEN?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Aiden149?label=Followers&style=social"></a>
+<a href="https://github.com/Aiden149/AIDEN/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Aiden149/AIDEN?&style=social"></a>
+<a href="https://github.com/Aiden149/AIDEN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aiden149/AIDEN?style=social"></a>
+<a href="https://github.com/Aiden149/AIDEN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aiden149/AIDEN?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
