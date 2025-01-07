@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              AIDEN TECH
+<p align="center">                                              AIDEN TECH-MD
 
 
 </p>
@@ -13,7 +13,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+𝚫𝚴𝐃𝚩𝚫𝐃-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+AIDEN-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
 
 
 
@@ -27,9 +27,9 @@
 
 
  
-[`QR SCANNER`](https://andbad-qr-k71b.onrender.com/qr)
+[`QR SCANNER`](https://david-session-1-ptyg.onrender.com)
 
-[`PAIRING CODE`](https://andbad-qr-k71b.onrender.com)
+[`PAIRING CODE`](https://david-session-1-ptyg.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
