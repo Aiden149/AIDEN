@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-> ANDBAD MD AVAILABLE MENUS* 
+> 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃 AVAILABLE MENUS* 
 ╭─────────────────
 │❒⁠⁠⁠⁠╭─────────────
 │❒⁠⁠⁠⁠│▸ *MENU* 
@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *PLUGINS* : ${cm.length} 
 │❒⁠⁠⁠⁠│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠│▸ *SAVER* : ${os.platform()}
-│❒⁠⁠⁠⁠│▸ *THEME* : *𝚫𝚴𝐃𝚩𝚫𝐃𝚻𝚮𝚵𝚳𝚵𝐒*
+│❒⁠⁠⁠⁠│▸ *THEME* : *𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇𝚻𝚮𝚵𝚳𝚵𝐒*
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n`;
 
@@ -63,14 +63,14 @@ let menuMsg = `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> 𝚳𝚫𝐃𝚵 𝚵𝚫𝐒𝐘 𝚩𝐘 𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃
+    menuMsg += `> 𝚳𝚫𝐃𝚵 𝚵𝚫𝐒𝐘 𝚩𝐘 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃
 `;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝚫 𝚴 𝐃 𝚩 𝚫 𝐃*, déveloper 𝚫 𝚴 𝐃 𝚩 𝚫 𝐃-𝚻 𝚵 𝐂 𝚮" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇*, déveloper 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
