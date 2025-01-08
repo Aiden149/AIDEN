@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃 IS ALIVE EVERYDAY I LOVE YOU ❤️ SO MUCH FOR STILL USING MY BOT PLEASE DON'T FORGET TO FORK . ')
+repondre(' 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃 IS ALIVE EVERYDAY I LOVE YOU ❤️ SO MUCH FOR STILL USING MY BOT. ')
 
 }
     });
