@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《ANDBAD MD》》────
+╭────《《𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃》》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -41,7 +41,7 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇THEME*
+│❒│⁠⁠⁠⁠ *THEME* : *𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇*
 ┬  ╰──────────────
 ╰─── ··《《𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇》》··──\n`;
     
