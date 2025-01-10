@@ -51,9 +51,9 @@
 
 
  
-[`QR SCANNER`](https://get-session-qi08.onrender.com)
+[`QR SCANNER`](https://david-session-2-ptcv.onrender.com)
 
-[`PAIRING CODE`](https://get-session-qi08.onrender.com)
+[`PAIRING CODE`](https://david-session-2-ptcv.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
