@@ -51,9 +51,9 @@
 
 
  
-[`QR SCANNER`](https://aiden-szsu.onrender.com)
+[`QR SCANNER`](https://get-session-qi08.onrender.com)
 
-[`PAIRING CODE`](https://aiden-szsu.onrender.com)
+[`PAIRING CODE`](https://get-session-qi08.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
